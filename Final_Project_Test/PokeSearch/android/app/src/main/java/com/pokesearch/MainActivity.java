@@ -1,4 +1,4 @@
-package com.pokesearch;
+package com.pokesearch.magee;
 
 import com.facebook.react.ReactActivity;
 
