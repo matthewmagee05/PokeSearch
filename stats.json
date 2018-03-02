@@ -1,0 +1,70 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-af747a5d3253abc17798.js",
+      "component---src-pages-index-js-af747a5d3253abc17798.js.map"
+    ],
+    "path---posts-our-second-post": [
+      "path---posts-our-second-post-673771045781ab097a7d.js",
+      "path---posts-our-second-post-673771045781ab097a7d.js.map"
+    ],
+    "path---": [
+      "path----26f7bb1773cf9088642c.js",
+      "path----26f7bb1773cf9088642c.js.map"
+    ],
+    "component---src-posts-post-page-js": [
+      "component---src-posts-post-page-js-d23b4719094a3eb8050e.js",
+      "component---src-posts-post-page-js-d23b4719094a3eb8050e.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-8c40c0e898f8b2c20df9.js",
+      "component---src-layouts-index-js-8c40c0e898f8b2c20df9.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-3fac01556b82cd6ea55e.js",
+      "path---index-3fac01556b82cd6ea55e.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-61689ac9f897bb0fcb2f.js",
+      "commons-61689ac9f897bb0fcb2f.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-b55fd3bdc59f5b7285cb.js",
+      "component---src-pages-page-2-js-b55fd3bdc59f5b7285cb.js.map"
+    ],
+    "app": [
+      "app-f7af3a3a9a668cf87c5a.js",
+      "build-js-styles.css",
+      "app-f7af3a3a9a668cf87c5a.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-d14d2f3fa95cb4d769cc.js",
+      "component---src-pages-about-js-d14d2f3fa95cb4d769cc.js.map"
+    ],
+    "path---posts-post": [
+      "path---posts-post-9eb47d7e326445bc522a.js",
+      "path---posts-post-9eb47d7e326445bc522a.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
